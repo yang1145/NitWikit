@@ -211,7 +211,7 @@ const config = {
                     {name: 'keywords', content: 'Minecraft, 开服教程, MC, 开服, 插件, 联机, 我的世界'},
                 ],
                 navbar: {
-                    title: 'NitWikit',
+                    title: 'NitWikit-Community',
                     logo: {
                         alt: 'Logo',
                         src: 'img/book.png',
