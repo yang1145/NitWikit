@@ -361,7 +361,7 @@ const config = {
                 announcementBar: {
                     id: 'qq-group-notice',
                     content:
-                        '笨蛋文档QQ群由于不可抗力因素（群员恶意举报，恶意发言）目前被封禁，请移至备用群 <a target="_blank" rel="noopener noreferrer" href="https://qm.qq.com/cgi-bin/qm/qr?k=UjB6H5oE8JdSqnc8RrKIrlMOHQAXDfJ6&jump_from=webapi"><strong>858694195</strong></a>',
+                        '笨蛋文档QQ群由于不可抗力因素已被解散，我们正在建立新的QQ群。</a>',
                     backgroundColor: '#25a06e',
                     textColor: 'white',
                     isCloseable: false,
